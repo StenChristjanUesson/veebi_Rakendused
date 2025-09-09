@@ -113,6 +113,7 @@
 
 #Custom tr:nth-child(1) td:nth-child(2){ /*1.rida 2.lahter*/
     background-color: red;
+    width : 70px;
 }
 
 #Custom tr:nth-child(2) td:nth-child(1){ /*2.rida 1.lahter*/
@@ -124,9 +125,11 @@
 }
 #Custom tr:nth-child(3) td:nth-child(1){ /*2.rida 1.lahter*/
     background-color: lightpink;
+    height: 40px;
 }
 #Custom tr:nth-child(3) td:nth-child(2){ /*2.rida 2.lahter*/
     background-color: mistyrose;
+    height: 40px;
 }
 #Custom tr:nth-child(4) td:nth-child(1){ /*2.rida 1.lahter*/
     background-color: mistyrose;
@@ -166,52 +169,52 @@
 }
 
 #Sümbol tr:nth-child(1) td:nth-child(1){ /*1.rida 1.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 
 #Sümbol tr:nth-child(1) td:nth-child(3){ /*2.rida 1.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 
 #Sümbol tr:nth-child(2) td:nth-child(2){ /*2.rida 2.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 #Sümbol tr:nth-child(2) td:nth-child(4){ /*2.rida 1.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 #Sümbol tr:nth-child(3) td:nth-child(2){ /*2.rida 2.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 #Sümbol tr:nth-child(4) td:nth-child(2){ /*2.rida 1.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 
 #Sümbol tr:nth-child(4) td:nth-child(4){ /*2.rida 2.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 
 #Sümbol tr:nth-child(5) td:nth-child(1){ /*2.rida 2.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
 
 #Sümbol tr:nth-child(5) td:nth-child(3){ /*2.rida 2.lahter*/
-    background-color: red;
-    border: 1px black solid;
+    background-color: orangered;
+    border: 1px orangered solid;
     border-collapse: collapse; /*üks joon border'is*/
 }
